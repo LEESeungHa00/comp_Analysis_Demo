@@ -77,3 +77,7 @@
     ```bash
     streamlit run your_app_name.py
     ```
+
+4. **streamlit cloud 앱 실행**:
+   demo-for-test.streamlit.app
+   
